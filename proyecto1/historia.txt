@@ -3,4 +3,6 @@ Esta es la historia de Gabriel Trujillo
 Nacio en Bogota hace 54 años 
 y se va para Orlando con su familia
 
+main 1
+
 Mañana nos enfocaremos en la vida laboral
