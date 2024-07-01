@@ -4,6 +4,7 @@
 
 ### ¿Quiénes Somos?
 Somos un equipo de profesionales apasionados por la salud y el bienestar, comprometidos en ayudarte a alcanzar tus metas de una manera equilibrada y sostenible. Contamos con expertos en nutrición, ejercicio físico, salud mental y medicina que colaboran para brindarte contenido de calidad basado en evidencia científica.
+creado por Gabriel Trujillo, Medico especialista
 
 ### ¿Qué Encontrarás Aquí?
 En nuestro blog, encontrarás una amplia variedad de temas relacionados con la salud, incluyendo:
